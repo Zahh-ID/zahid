@@ -44,6 +44,12 @@ nav ul li {
   display: inline-block;
   line-height: 80px;
 }
+nav ul li i{
+  display: contents;
+}
+nav ul li a{
+  display: contents;
+}
 nav ul li div #dropdownMenuLink{
   align-items: center;
   background-color: transparent;
